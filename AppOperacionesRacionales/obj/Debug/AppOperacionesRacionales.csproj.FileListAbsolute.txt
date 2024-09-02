@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\progrmacion\Programacion 2\AppOperacionesRacionales\AppOperacionesRacionales\bin\Debug\AppOperacionesRacionales.exe.config
+C:\Users\User\Desktop\progrmacion\Programacion 2\AppOperacionesRacionales\AppOperacionesRacionales\bin\Debug\AppOperacionesRacionales.exe
+C:\Users\User\Desktop\progrmacion\Programacion 2\AppOperacionesRacionales\AppOperacionesRacionales\bin\Debug\AppOperacionesRacionales.pdb
+C:\Users\User\Desktop\progrmacion\Programacion 2\AppOperacionesRacionales\AppOperacionesRacionales\obj\Debug\AppOperacionesRacionales.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\progrmacion\Programacion 2\AppOperacionesRacionales\AppOperacionesRacionales\obj\Debug\AppOperacionesRacionales.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\progrmacion\Programacion 2\AppOperacionesRacionales\AppOperacionesRacionales\obj\Debug\AppOperacionesRacionales.exe
+C:\Users\User\Desktop\progrmacion\Programacion 2\AppOperacionesRacionales\AppOperacionesRacionales\obj\Debug\AppOperacionesRacionales.pdb
